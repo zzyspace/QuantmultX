@@ -1,0 +1,22 @@
+# 分流规则配置片段包含若干条分流规则；可通过资源引用的方式使用。
+# 片段文件将保存在 Quantumult X 目录下的 Profiles 子目录中。
+# 样例可参见 https://raw.githubusercontent.com/crossutility/Quantumult-X/master/filter.snippet
+ 
+ 
+ 
+host-keyword, bybit, DE
+host-keyword,kraken,DE
+host-keyword,n26,DE
+host-suffix,usercentrics.eu,DE
+host-keyword,number26,DE
+host-keyword,braze,DE
+host-keyword,tech26,DE
+host-keyword,bybit,DE
+host-keyword,giffgaff,DE
+host-keyword,bycsi,DE
+host-keyword,ffe390afd658c19dcbf707e0597b846d,DE
+host-keyword,ffbbbdc6d3c353211fe2ba39c9f744cd,DE
+host-keyword,byapps,DE
+host-keyword,bybdc6,DE
+host-keyword,byd3c3,DE
+host-keyword,byabcde,DE
