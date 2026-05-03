@@ -11,4 +11,4 @@ host-keyword, openai, proxy
 host, msmp.abchina.com.cn, reject
 host-keyword, schwab, direct
 host-keyword, trimble, proxy
-host-keyword, tktn, China
+host-keyword, tktn, US
