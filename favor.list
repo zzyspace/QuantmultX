@@ -13,3 +13,5 @@ host-keyword, schwab, direct
 host-keyword, trimble, proxy
 host-keyword, tktn, US
 host, war.gov, US
+host, plasma-one.tech, HK
+host, plasma.to, HK
