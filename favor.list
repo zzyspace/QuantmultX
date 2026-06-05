@@ -12,7 +12,7 @@ host, msmp.abchina.com.cn, reject
 host-keyword, schwab, direct
 host-keyword, trimble, proxy
 host-keyword, tktn, US
-host, war.gov, US
-host, plasma-one.tech, HK
-host, plasma.to, HK
-host, fenno.ai, proxy
+host-suffix, war.gov, US
+host-suffix, plasma-one.tech, HK
+host-suffix, plasma.to, HK
+host-suffix, fenno.ai, proxy
