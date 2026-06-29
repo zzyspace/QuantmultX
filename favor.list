@@ -29,4 +29,4 @@ host-suffix,gateway.icloud.com,PROXY
 host-suffix,guzzoni.apple.com,PROXY
 host-suffix,smoot.apple.com,PROXY
 host-suffix,cp4.cloudflare.com,PROXY
-host-suffix,gspe1-ssl.ls.apple.com,PROX
+host-suffix,gspe1-ssl.ls.apple.com,PROXY
