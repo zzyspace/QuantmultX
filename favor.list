@@ -20,13 +20,13 @@ host-suffix, fenno.ai, proxy
 host-keyword, zerion, proxy
 
 # Apple Intelligence / Siri ChatGPT
-host-suffix,apple-relay.apple.com,PROXY
-host-suffix,apple-relay.cloudflare.com,PROXY
-host-suffix,apple-relay.fastly-edge.com,PROXY
-host-suffix,apple-relay.akamaized.net,PROXY
-host-suffix,apple-relay.mask.apple-dns.net,PROXY
-host-suffix,gateway.icloud.com,PROXY
-host-suffix,guzzoni.apple.com,PROXY
-host-suffix,smoot.apple.com,PROXY
-host-suffix,cp4.cloudflare.com,PROXY
-host-suffix,gspe1-ssl.ls.apple.com,PROXY
+host-suffix,apple-relay.apple.com,US
+host-suffix,apple-relay.cloudflare.com,US
+host-suffix,apple-relay.fastly-edge.com,US
+host-suffix,apple-relay.akamaized.net,US
+host-suffix,apple-relay.mask.apple-dns.net,US
+host-suffix,gateway.icloud.com,US
+host-suffix,guzzoni.apple.com,US
+host-suffix,smoot.apple.com,US
+host-suffix,cp4.cloudflare.com,US
+host-suffix,gspe1-ssl.ls.apple.com,US
