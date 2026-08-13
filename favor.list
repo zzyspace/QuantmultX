@@ -20,6 +20,7 @@ host-suffix, plasma.to, HK
 host-keyword, sumsub, HK
 host-suffix, fenno.ai, proxy
 host-keyword, zerion, proxy
+host-keyword, chinatax, direct
 
 # Apple Intelligence / Siri ChatGPT
 host-suffix,apple-relay.apple.com,proxy
