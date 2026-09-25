@@ -21,6 +21,10 @@ host-keyword, sumsub, HK
 host-suffix, fenno.ai, proxy
 host-keyword, zerion, proxy
 host-keyword, chinatax, direct
+host-suffix, meta.ai, US
+host-keyword, muse, US
+host-keyword, facebook, US
+host-keyword, metaaivm, US
 
 # Apple Intelligence / Siri ChatGPT
 host-suffix,apple-relay.apple.com,proxy
