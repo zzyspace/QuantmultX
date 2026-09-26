@@ -22,7 +22,7 @@ host-suffix, fenno.ai, proxy
 host-keyword, zerion, proxy
 host-keyword, chinatax, direct
 host-suffix, meta.ai, US
-host-keyword, muse, US
+host-suffix, muse.ai, US
 host-keyword, facebook, US
 host-keyword, metaaivm, US
 
