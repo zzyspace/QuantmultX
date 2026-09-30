@@ -25,9 +25,13 @@ host-suffix, meta.ai, US
 host-suffix, muse.ai, US
 host-keyword, facebook, US
 host-keyword, metaaivm, US
-host,cdn.usefathom.com,AI
-host-suffix,anthropic.com,AI
-host-suffix,claude.ai,AI
+host, cdn.usefathom.com, AI
+host-suffix, anthropic.com, AI
+host-suffix, claude.ai, AI
+host-suffix, claude.com, AI
+host-suffix, claudeusercontent.com, AI
+host-suffix, claude.app, AI 
+host-suffix, claudemcpcontent.com, AI
 
 # Apple Intelligence / Siri ChatGPT
 host-suffix,apple-relay.apple.com,proxy
