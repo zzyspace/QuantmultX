@@ -32,6 +32,8 @@ host-suffix, claude.com, AI
 host-suffix, claudeusercontent.com, AI
 host-suffix, claude.app, AI 
 host-suffix, claudemcpcontent.com, AI
+host-suffix, clau.de, AI
+
 
 # Apple Intelligence / Siri ChatGPT
 host-suffix,apple-relay.apple.com,proxy
