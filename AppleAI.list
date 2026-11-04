@@ -1,19 +1,19 @@
 # Apple Intelligence / Siri / Relay rules
 # Route these domains to a supported-region proxy group, such as a US node.DOMAIN,guzzoni.apple.com
-host-suffix,smoot.apple.com
-host,api-siri-prod.apple.com
-host,seed.siri.apple.com
-host,apple-relay.apple.com
-host,apple-relay.cloudflare.com
-host,apple-relay.fastly-edge.com
-host,cp4.cloudflare.com
-host,apple-relay.mask.apple-dns.net
-host,mask-api.icloud.com
-host,mask-api.fe2.apple-dns.net
-host,apple-relay.akamaized.net
-host,apple-carry-relay.cloudflare.com
-host,gspe1-ssl.ls.apple.com
-host,gateway.icloud.com
-host,probe.icloud.com
-host,metrics.icloud.com
-host,wps.apple.com
+host-suffix,smoot.apple.com, proxy
+host,api-siri-prod.apple.com, proxy
+host,seed.siri.apple.com, proxy
+host,apple-relay.apple.com, proxy
+host,apple-relay.cloudflare.com, proxy
+host,apple-relay.fastly-edge.com, proxy
+host,cp4.cloudflare.com, proxy
+host,apple-relay.mask.apple-dns.net, proxy
+host,mask-api.icloud.com, proxy
+host,mask-api.fe2.apple-dns.net, proxy
+host,apple-relay.akamaized.net, proxy
+host,apple-carry-relay.cloudflare.com, proxy
+host,gspe1-ssl.ls.apple.com, proxy
+host,gateway.icloud.com, proxy
+host,probe.icloud.com, proxy
+host,metrics.icloud.com, proxy
+host,wps.apple.com, proxy
