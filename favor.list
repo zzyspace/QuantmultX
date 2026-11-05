@@ -33,6 +33,7 @@ host-suffix, claudeusercontent.com, AI
 host-suffix, claude.app, AI 
 host-suffix, claudemcpcontent.com, AI
 host-suffix, clau.de, AI
+host, http-intake.logs.us5.datadoghq.com, AI
 
 
 # Apple Intelligence / Siri ChatGPT
